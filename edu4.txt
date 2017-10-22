@@ -1,0 +1,2 @@
+branch1 file 1
+i am modified in branch 1
